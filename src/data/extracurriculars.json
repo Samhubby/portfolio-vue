@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Community Outreach Program on IT",
+    "organization": "Helambu Model School",
+    "startDate": "2024-11-01",
+    "endDate": "2024-12-31",
+    "description": "Conducted an interactive session educating Grade 10 students on technology trends and cybersecurity awareness"
+  },
+  {
+    "title": "Cloud Apprenticeship Program",
+    "organization": "AWS",
+    "startDate": "2024-05-01",
+    "endDate": "2024-07-31",
+    "description": "Hands-on experience with AWS services, cloud computing fundamentals, and best practices"
+  }
+]

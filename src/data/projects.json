@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Flag-Forge",
+    "description": "CTF platform to learn cybersecurity with features like leaderboard, streak tracking, and badge system",
+    "technologies": ["TypeScript", "ReactJS", "NodeJS", "ExpressJS", "MongoDB", "Redis"],
+    "github": "https://github.com/Samaya/flag-forge",
+    "live": "https://www.flagforgectf.com",
+    "thumbnail": "/assets/flagforge.jpg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "PHP",
+    "category": "Backend",
+    "icon": "php"
+  },
+  {
+    "name": "Laravel",
+    "category": "Backend",
+    "icon": "laravel"
+  },
+  {
+    "name": "MySQL",
+    "category": "Database",
+    "icon": "mysql"
+  },
+  {
+    "name": "Docker",
+    "category": "DevOps/Tools",
+    "icon": "docker"
+  },
+  {
+    "name": "Jenkins",
+    "category": "DevOps/Tools",
+    "icon": "jenkins"
+  },
+  {
+    "name": "RabbitMQ",
+    "category": "DevOps/Tools",
+    "icon": "rabbitmq"
+  },
+  {
+    "name": "Git",
+    "category": "Version Control",
+    "icon": "git"
+  },
+  {
+    "name": "GitHub",
+    "category": "Version Control",
+    "icon": "github"
+  },
+  {
+    "name": "AWS",
+    "category": "Cloud",
+    "icon": "aws"
+  },
+  {
+    "name": "Postman",
+    "category": "Testing/API",
+    "icon": "postman"
+  },
+  {
+    "name": "Claude API",
+    "category": "AI & Agentic Tools",
+    "icon": "ai"
+  },
+  {
+    "name": "GitHub Copilot",
+    "category": "AI & Agentic Tools",
+    "icon": "copilot"
+  }
+]

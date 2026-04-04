@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "monitoring-laravel-telescope",
+    "title": "Monitoring Applications with Laravel Telescope",
+    "excerpt": "Learn how to use Laravel Telescope for debugging, monitoring requests, jobs, and improving development visibility.",
+    "date": "2024-02-10",
+    "tags": ["Laravel", "Monitoring", "Debugging"],
+    "readingTime": 5,
+    "externalUrl": null
+  },
+  {
+    "slug": "laravel-fluent-class",
+    "title": "Laravel Fluent Class",
+    "excerpt": "Explore how Laravel's Fluent class provides a cleaner API for configuration handling and improved development workflow.",
+    "date": "2024-01-15",
+    "tags": ["Laravel", "PHP"],
+    "readingTime": 4,
+    "externalUrl": null
+  }
+]

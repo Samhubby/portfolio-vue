@@ -1,0 +1,13 @@
+{
+  "name": "Samaya Mahate",
+  "role": "Associate Backend Developer",
+  "tagline": "Building scalable backend systems with Laravel and cloud technologies",
+  "bio": "I'm an Associate Backend Developer and BSIT student with hands-on experience building BPM dashboards and customer portals using Laravel. Passionate about backend systems, cloud technologies, and scalable web applications.",
+  "location": "Pepsicola, Kathmandu",
+  "email": "samayamahate11@gmail.com",
+  "photo": "/assets/photo.jpg",
+  "cv": "/assets/CV_Samaya_Mahate.pdf",
+  "available": true,
+  "github": "https://github.com/Samaya",
+  "linkedin": "https://linkedin.com/in/Samaya"
+}

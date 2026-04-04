@@ -1,0 +1,14 @@
+[
+  {
+    "company": "Amnil Technologies",
+    "title": "Associate Backend Developer",
+    "startDate": "2024-09-01",
+    "endDate": "2025-03-31",
+    "description": [
+      "Developed BPM dashboards for banking systems using Laravel to monitor and manage workflow processes",
+      "Built a customer portal integrated with BPM processes to manage client requests and case submissions",
+      "Integrated external APIs using RabbitMQ for reliable asynchronous communication between systems",
+      "Collaborated in backend development, database management, and workflow automation"
+    ]
+  }
+]
